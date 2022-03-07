@@ -37,9 +37,10 @@ button {
 #weekdays div {
   width: 100px;
   padding: 10px;
+  margin: 5px;
 }
 #calendar {
-  width: 100%;
+  width: 770px;
   margin: auto;
   display: flex;
   flex-wrap: wrap;
